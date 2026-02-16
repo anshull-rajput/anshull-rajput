@@ -22,6 +22,9 @@
 ---
 
 ## 🚀 *Projects*
+### 🤖 AI Leave Management System
+👉 https://github.com/anshull-rajput/AI-Leave-Management-System
+
 ### 🎮 Tic-Tac-Toe (AI + Normal Mode)
 👉 https://github.com/anshull-rajput/Tik-tak-toe
 
