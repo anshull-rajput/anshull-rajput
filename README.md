@@ -28,7 +28,7 @@
 ### 🎮 Tic-Tac-Toe (AI + Normal Mode)
 👉 https://github.com/anshull-rajput/Tik-tak-toe
 
-### 🐍 Snake Game (C++)
+### 📊 My Graphics Project (C++)
 👉 https://github.com/anshull-rajput/My-Graphics-Project
 
 ### 🧠 Number Guessing Game (Python)
