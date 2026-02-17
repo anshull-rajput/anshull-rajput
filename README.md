@@ -51,7 +51,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=rainbow&margin-w=10&column=6" />
 </p>
-## 📊 GitHub Stats
+
+## 📊 *GitHub Stats*
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight)
 
 
