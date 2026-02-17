@@ -41,9 +41,8 @@
 ---
 
 ## 🔥 *GitHub Streak (Gradient Theme)*
-<p align="center">
-  <img src="https://streak-stats.demolab.com?username=anshull-rajput&theme=neon-palenight" height="180"/>
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight)
 
 
 ---
