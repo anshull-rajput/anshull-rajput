@@ -50,10 +50,7 @@
 
 ## 🏆 Achievements
 
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=anshul-rajput)
-
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshul-rajput&theme=radical&no-frame=true&row=1)
 ---
 
 ## 🌐 *Connect with Me*
