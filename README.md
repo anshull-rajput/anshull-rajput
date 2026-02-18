@@ -36,21 +36,7 @@
 
 ---
 
-## 📊 *GitHub Stats (Colorful Mode)*
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
----
 
-## 🔥 *GitHub Streak (Gradient Theme)*
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight)
-
-
----
-
-
-
-## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=onedark)
 ---
 
 ## 🌐 *Connect with Me*
