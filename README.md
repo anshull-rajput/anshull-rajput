@@ -37,8 +37,7 @@
 ---
 
 ##  📊 GitHub Stats
-![Anshul's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshull-rajput&layout=compact&theme=tokyonight)
 
 ---
 
