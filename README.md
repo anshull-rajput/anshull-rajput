@@ -35,16 +35,26 @@
 👉 https://github.com/anshull-rajput/Number-Guessing-Game
 
 ---
+
+##  📊 GitHub Stats
 ![Anshul's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+
+---
+
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight)
 
+---
+
 ## 🏆 Achievements
 
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=onedark&no-frame=true)
+
+
 
 ---
 
