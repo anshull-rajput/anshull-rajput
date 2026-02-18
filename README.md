@@ -43,8 +43,8 @@
 
 ## 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=onedark)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=onedark&no-frame=true)
 
 ---
 
