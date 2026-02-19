@@ -50,7 +50,7 @@
 
 ### 🔖 Holopins:
   
-[![An image of @mohitdhote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshull-rajput)](https://holopin.io/@anshull-rajput)
+[![An image of @anshull-rajput's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshull-rajput)](https://holopin.io/@anshull-rajput)
 
 ---
 
