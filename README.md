@@ -48,13 +48,7 @@
 
 ---
 
-<h2 align="left">🏆 GitHub Trophies :</h2>
-<br>
-<p align="left"> 
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=onedark" alt="anshull-rajput" />
-  </a> 
-</p>
+
 
 
 ## 🌐 *Connect with Me*
