@@ -37,14 +37,14 @@
 ---
 
 ##  📊 GitHub Stats
-<img src="https://github-readme-stats-omega-seven-64.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+<img src="https://github-readme-stats-omega-seven-64.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 ---
 
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight&hide_border=true")
+![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight")
 
 ---
 
