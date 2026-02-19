@@ -48,11 +48,13 @@
 
 ---
 
-### 🔖 Holopins:
-  
-[![An image of @anshull-rajput's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshull-rajput)](https://holopin.io/@anshull-rajput)
-
----
+<h2 align="left">🏆 GitHub Trophies :</h2>
+<br>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=onedark" alt="anshull-rajput" />
+  </a> 
+</p>
 
 
 ## 🌐 *Connect with Me*
