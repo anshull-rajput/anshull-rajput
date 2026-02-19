@@ -48,6 +48,12 @@
 
 ---
 
+### 🔖 Holopins:
+  
+[![An image of @mohitdhote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshull-rajput)](https://holopin.io/@anshull-rajput)
+
+---
+
 
 ## 🌐 *Connect with Me*
 <p align="center">
