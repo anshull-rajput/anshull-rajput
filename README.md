@@ -21,6 +21,13 @@
 
 ---
 
+### Tools Knowledge:
+| VSCode | Git |
+|--------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
+
+
+
 ## 🌈 *Tech Stack*
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,html,css&theme=light" />
