@@ -48,6 +48,9 @@
 
 ---
 
+![](https://github-trophies.vercel.app/?username=anshull-rajput&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
