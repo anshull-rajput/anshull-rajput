@@ -98,9 +98,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 📈 *Contribution Graph*
 
-## <div><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
+## <div><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Graph Activity </h3></div>
 
 <table width="100">
   <tr border="0">
@@ -110,10 +109,6 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshull-rajput&theme=github-compact&hide_border=true" />
-</p>
 
 </p>
 <p align="center">
