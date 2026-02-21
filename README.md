@@ -133,7 +133,7 @@
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
   <a href="https://www.linkedin.com/in/anshull-rajput"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
-  <a href="https://https://wa.me/919238916565"><img src="https://skillicons.dev/icons?i=whatsaap" height="45"/></a>
+  <a href="https://https://wa.me/919238916565"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" height="45"/></a>
   
 </p>
 
