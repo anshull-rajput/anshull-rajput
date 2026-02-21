@@ -110,6 +110,7 @@
 </p>
 
 <!-- Snake Game Repo View -->
+### This Snake is Eating my Contribution 😭 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
