@@ -47,26 +47,20 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight)
 
 ---
-<p align="center">
-    <a href="http://aashisjha.com.np" target="_blank">
-        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
-    </a>
-</p>
+<br/>
 
----
+<div align="center">
+  <h3 style="color: #00ff00; text-shadow: 0 0 10px #00ff00;">
+     🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃 
+  </h3>
+  <img src="https://komarev.com/ghpvc/?username=oraclebrain&color=00ff00&style=for-the-badge&label=TARGETS+SCANNED" alt="Profile Views"/>
+  <br/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=wifi&logoColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff00?style=for-the-badge&logo=shield&logoColor=black" alt="Access"/>
+  <img src="https://img.shields.io/badge/SECURITY-LEVEL_%205-ff0000?style=for-the-badge&logo=lock&logoColor=white" alt="Security"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
----
-
-<a href="https://github.com/OracleBrain">
-    <img src="contributions.svg" />
-  </a>
-
-  ---
+<br/>
 
 ## 🌐 *Connect with Me*
 <p align="center">
