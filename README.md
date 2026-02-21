@@ -62,6 +62,12 @@
 </p>
 ---
 
+<a href="https://github.com/OracleBrain">
+    <img src="contributions.svg" />
+  </a>
+
+  ---
+
 ## 🌐 *Connect with Me*
 <p align="center">
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
