@@ -14,6 +14,11 @@
 
 ---
 
+### Languages Knowledge:
+| C | C++ | Python | SQL | 
+|----|-----|--------|-----|------|------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | 
+
 ## 🌈 *Tech Stack*
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,html,css&theme=light" />
