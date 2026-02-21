@@ -6,7 +6,7 @@
 
 ---
 ## 🎨 *About Me*
-- 🚀  I’m currently working on C++, Python.
+- 🚀  I’m currently working on C++ and Python projects.
 - 👨‍💻 All of my projects are available at ["https://github.com/anshull-rajput"]
 - 📄 Know about my experiences ["https://www.linkedin.com/in/anshull-rajput"]
 - 📫 My Email Address ["anshulrajput262006@gmail.com"]
