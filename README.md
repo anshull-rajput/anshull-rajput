@@ -16,14 +16,20 @@
 - 📫 My Email Address ["anshulrajput262006@gmail.com"]
 - 🌟 Hacker Rank - ["https://www.hackerrank.com/anshulrajput2621"] 
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ### 💡 *Language Knowledge*
 | C | C++ | Python | SQL | 
 |----|-----|--------|-----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | 
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ### 🛠️ *Tools Knowledge*
 | VSCode | Git |
@@ -31,13 +37,21 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
 
 
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
 
 ## 🌈 *Tech Stack*
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,html,css&theme=light" />
 </p>
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🚀 *Projects*
 ### 🤖 AI Leave Management System (Python)
@@ -52,25 +66,37 @@
 ### 🧠 Number Guessing Game (Python)
 👉 https://github.com/anshull-rajput/Number-Guessing-Game
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ##  📊 *GitHub Stats*
 <img src="https://github-readme-stats-omega-seven-64.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 
 ## 🔥 *GitHub Streak*
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight)
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🏆 *Achievements*
 
 ![](https://github-trophies.vercel.app/?username=anshull-rajput&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 📈 *Contribution Graph*
 
@@ -78,7 +104,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshull-rajput&theme=github-compact&hide_border=true" />
 </p>
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 
 
@@ -95,4 +124,7 @@
 
 <h3 align="center">⭐ If you like my work, please consider giving a star!</h3>
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
