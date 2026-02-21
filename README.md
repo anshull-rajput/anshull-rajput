@@ -48,9 +48,6 @@
 
 ---
 
-
-
-
 ## 🌐 *Connect with Me*
 <p align="center">
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
@@ -60,9 +57,6 @@
   <img src="https://skillicons.dev/icons?i=hackerrank" height="45" alt="HackerRank"/>
   </am 
 </p>
-
-
----
 
 
 <h3 align="center">⭐ If you like my work, please consider giving a star!</h3>
