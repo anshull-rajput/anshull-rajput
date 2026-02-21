@@ -48,9 +48,6 @@
 
 ---
 
- <a href="https://github.com/anshull-rajput">
-    <img src="contributions.svg" />
-  </a>
 
 
 ## 🌐 *Connect with Me*
