@@ -14,7 +14,7 @@
 
 ---
 
-### Languages Knowledge:
+### 💡 *Languages Knowledge:
 | C | C++ | Python | SQL | 
 |----|-----|--------|-----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | 
@@ -41,25 +41,25 @@
 
 ---
 
-##  📊 GitHub Stats
+##  📊 *GitHub Stats
 <img src="https://github-readme-stats-omega-seven-64.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 ---
 
 
-## 🔥 GitHub Streak
+## 🔥 *GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight)
 
 ---
 
-## 🏆 Achievements
+## 🏆 *Achievements
 
 ![](https://github-trophies.vercel.app/?username=anshull-rajput&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 📈 Contribution Graph
+## 📈 *Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshull-rajput&theme=github-compact&hide_border=true" />
