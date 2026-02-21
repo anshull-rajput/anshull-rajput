@@ -102,6 +102,14 @@
 
 ## <div><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
 
+<table width="100">
+  <tr border="0">
+    <td align='center' width="1010">
+      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=anshull-rajput&theme=github-dark&hide_border=true" img alt="Hood's Activity Graph"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshull-rajput&theme=github-compact&hide_border=true" />
