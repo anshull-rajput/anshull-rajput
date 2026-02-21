@@ -134,6 +134,7 @@
   <a href="https://www.linkedin.com/in/anshull-rajput"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
   <a href="https://www.hackerrank.com/anshulrajput2621" target="_blank">
+  <a href="https://https://wa.me/+919238916565"><img src="https://skillicons.dev/icons?i=whatsaap" height="45"/></a>
   <img src="https://skillicons.dev/icons?i=hackerrank" height="45" alt="HackerRank"/>
   </am 
 </p>
