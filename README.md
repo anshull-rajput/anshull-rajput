@@ -48,6 +48,10 @@
 
 ---
 
+ <a href="https://github.com/OracleBrain">
+    <img src="contributions.svg" />
+  </a>
+
 
 ## 🌐 *Connect with Me*
 <p align="center">
