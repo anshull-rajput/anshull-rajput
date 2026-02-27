@@ -27,6 +27,7 @@
 |----|-----|--------|-----|------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | 
 
+
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
