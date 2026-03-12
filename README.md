@@ -15,7 +15,6 @@
 - 📄 Know about my experiences ["https://www.linkedin.com/in/anshull-rajput"]
 - 📫 My Email Address ["anshulrajput262006@gmail.com"]
 - 🌟 Hacker Rank - ["https://www.hackerrank.com/anshulrajput2621"]
-- 
 
 </p>
 <p align="center">
