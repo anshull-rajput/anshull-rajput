@@ -78,7 +78,7 @@
 </p>
 
 ##  📊 *GitHub Stats*
-![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=anshull-rajput&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&cache_seconds=3600&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
+![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=anshull-rajput&hide=contribs,prs&show_icons=true&theme=tokyonight&card_width=495&cache_seconds=3600&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
 
 
 </p>
