@@ -78,7 +78,8 @@
 </p>
 
 ##  📊 *GitHub Stats*
-<img src="https://github-readme-stats-omega-seven-64.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=anshull-rajput&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&cache_seconds=3600&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
+
 
 </p>
 <p align="center">
