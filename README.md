@@ -60,10 +60,10 @@
 
 ## 🚀 *Projects*
 ### 🤖 AI Leave Management System (Python)
-👉 https://github.com/anshull-rajput/AI-Leave-Management-System
+[👉](https://github.com/sure-trust/ANSHUL-RAJPUT-g6-gen-ai/tree/main/Assignments) https://github.com/anshull-rajput/AI-Leave-Management-System
 
 ### 🎮 Tic-Tac-Toe (AI + Normal Mode)
-👉 https://github.com/anshull-rajput/Tik-tak-toe
+👉 [📂 view project](https://github.com/anshull-rajput/Tik-tak-toe)
 
 ### 📊 My Graphics Project (C++)
 👉 https://github.com/anshull-rajput/My-Graphics-Project
