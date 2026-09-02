@@ -2,6 +2,8 @@
 
 ### Beginner AI/ML Developer | Python & C++
 
+![Profile Views](https://komarev.com/ghpvc/?username=anshull-rajput&label=Profile%20Views&color=0e75b6&style=flat)
+
 I’m a computer science student learning **Artificial Intelligence, Machine Learning, and Python** by building practical projects.
 
 - 🤖 Interested in AI & Machine Learning
