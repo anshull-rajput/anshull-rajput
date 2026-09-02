@@ -1,150 +1,74 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=👋%20I'm%20Anshul%20Rajput&fontSize=40&fontAlignY=35&desc=%20Welcome%20to%20%my%20Profile&descAlignY=55" />
-</p>
+# 👋 Hi, I'm Anshul Rajput
 
+### Beginner AI/ML Developer | Python & C++
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshull-rajput&label=Visitors&color=0e75b6&style=plastic)
+I’m a computer science student learning **Artificial Intelligence, Machine Learning, and Python** by building practical projects.
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+- 🤖 Interested in AI & Machine Learning
+- 🐍 Learning and building with Python
+- 💻 Also working with C++ and SQL
+- 🚀 Building simple projects to improve my skills
+- 📫 Email: **anshulrajput262006@gmail.com**
 
+## 🛠️ Skills
 
-## 🎨 *About Me*
-- 🚀  I’m currently working on C++ and Python projects.
-- 👨‍💻 All of my projects are available at ["https://github.com/anshull-rajput"]
-- 📄 Know about my experiences ["https://www.linkedin.com/in/anshull-rajput"]
-- 📫 My Email Address ["anshulrajput262006@gmail.com"]
-- 🌟 Hacker Rank - ["https://www.hackerrank.com/anshulrajput2621"]
+### Languages
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+### AI/ML & Tools
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+## 🚀 Featured Projects
 
-## 💡 *Language Knowledge*
-| C | C++ | Python | SQL | HTML |
-|----|-----|--------|-----|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | 
+### 🤖 AI HealthVault
+A Generative AI application that helps users understand medical PDF reports, ask questions about reports, and compare selected lab values over time.
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+**Python • Streamlit • Groq • PyPDF**
 
+### 🌸 Iris Flower Classification
+A machine learning application that classifies Iris flowers into **Setosa, Versicolor, and Virginica** using different classification models.
 
-### 🛠️ *Tools Knowledge*
-| VSCode | Git |
-|---------|-----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="width: 70px; height: 70px; object-fit: contain;"/> |
+**Python • Scikit-learn • Streamlit**
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+### 🏠 House Price Prediction
+A beginner-friendly machine learning project that predicts estimated house prices using **Multiple Linear Regression**.
 
-## 🌈 *Tech Stack*
+**Python • Pandas • Scikit-learn • Streamlit**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,html,css&theme=light" />
-</p>
+### 🎮 Tic-Tac-Toe
+A C++ console game with a normal 2-player mode and an AI mode using the **Minimax algorithm**.
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+**C++ • Game Logic • Minimax**
 
+### 📋 Leave Management System
+A simple Streamlit application for checking leave balance and submitting leave requests.
 
-## 🚀 *Projects*
-### 🤖 AI Leave Management System (Python)
-[👉](https://github.com/sure-trust/ANSHUL-RAJPUT-g6-gen-ai/tree/main/Assignments) https://github.com/anshull-rajput/AI-Leave-Management-System
+**Python • Streamlit • Pandas**
 
-### 🎮 Tic-Tac-Toe (AI + Normal Mode)
-👉 [📂 view project](https://github.com/anshull-rajput/Tik-tak-toe)
+## 📊 GitHub Stats
 
-### 📊 My Graphics Project (C++)
-👉 https://github.com/anshull-rajput/My-Graphics-Project
+![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 🧠 Number Guessing Game (Python)
-👉 https://github.com/anshull-rajput/Number-Guessing-Game
+![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight&hide_border=true)
 
+## 🌐 Connect With Me
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Rajput-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshull-rajput)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Anshul%20Rajput-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshulrajput2621)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anshulrajput262006@gmail.com)
 
-##  📊 *GitHub Stats*
-![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=anshull-rajput&hide=contribs,prs&show_icons=true&theme=tokyonight&card_width=495&cache_seconds=3600&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
+---
 
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-
-## 🔥 *GitHub Streak*
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anshull-rajput&theme=tokyonight)
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-## 🏆 *Achievements*
-
-![](https://github-trophies.vercel.app/?username=anshull-rajput&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-
-## <div><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Graph Activity </h3></div>
-
-<table width="100">
-  <tr border="0">
-    <td align='center' width="1010">
-      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=anshull-rajput&theme=github-dark&hide_border=true" img alt="Hood's Activity Graph"/>
-    </td>
-  </tr>
-</table>
-
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-### 🐍 *This Snake is Eating my Contributions 😭😭* 
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-## 🌐 *Connect with Me*
-<p align="center">
-  <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://www.linkedin.com/in/anshull-rajput"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
-  <a href="https://api.whatsapp.com/send?phone=919238916565"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="50"/></a>
-  
-</p>
-
-<h3 align="center">⭐ If you like my work, please consider giving a star!</h3>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+⭐ Thanks for visiting my profile!
