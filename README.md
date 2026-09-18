@@ -34,30 +34,32 @@ I’m a computer science student learning **Artificial Intelligence, Machine Lea
 
 ## 🚀 Featured Projects
 
-### 🤖 AI HealthVault
-A Generative AI application that helps users understand medical PDF reports, ask questions about reports, and compare selected lab values over time.
+These are the main projects I’m currently showcasing on my profile.
+
+### 🌱 [SahyogSetu](https://github.com/anshull-rajput/SahyogSetu)
+A Django-based cooperative gig services platform connecting customers with verified workers, with role-based workflows and explainable worker matching based on skill, availability, location, rating, and workload fairness.
+
+**Python • Django • SQLite • HTML/CSS/JavaScript**
+
+### 🧘 [YogaGenie](https://github.com/anshull-rajput/YogaGenie)
+An AI-powered personalized yoga platform with a React frontend, Node.js backend, authentication, personalized plans, and a dedicated AI service with RAG-oriented components.
+
+**React • Node.js • MongoDB • FastAPI • AI/RAG**
+
+### 🤖 [AI HealthVault](https://github.com/anshull-rajput/AI-HealthVault)
+A Generative AI application that analyzes uploaded medical PDF reports, generates summaries and key findings, answers questions about reports, and compares selected lab values over time.
 
 **Python • Streamlit • Groq • PyPDF**
 
-### 🌸 Iris Flower Classification
-A machine learning application that classifies Iris flowers into **Setosa, Versicolor, and Virginica** using different classification models.
-
-**Python • Scikit-learn • Streamlit**
-
-### 🏠 House Price Prediction
-A beginner-friendly machine learning project that predicts estimated house prices using **Multiple Linear Regression**.
-
-**Python • Pandas • Scikit-learn • Streamlit**
-
-### 🎮 Tic-Tac-Toe
-A C++ console game with a normal 2-player mode and an AI mode using the **Minimax algorithm**.
+### 🎮 [Tic-Tac-Toe](https://github.com/anshull-rajput/Tik-tak-toe)
+A C++ console game with 2-player mode and an AI opponent using the Minimax algorithm.
 
 **C++ • Game Logic • Minimax**
 
-### 📋 Leave Management System
-A simple Streamlit application for checking leave balance and submitting leave requests.
-
-**Python • Streamlit • Pandas**
+### 📚 Other Projects
+- [Iris Flower Classification](https://github.com/anshull-rajput/Iris-Flower-Classification)
+- [House Price Prediction](https://github.com/anshull-rajput/House-Price-Prediction)
+- [Leave Management System](https://github.com/anshull-rajput/AI-Leave-Management-System)
 
 ## 📊 GitHub Stats
 
