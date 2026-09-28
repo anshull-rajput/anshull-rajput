@@ -51,11 +51,6 @@ A Generative AI application that analyzes uploaded medical PDF reports, generate
 
 **Python • Streamlit • Groq • PyPDF**
 
-### 🎮 [Tic-Tac-Toe](https://github.com/anshull-rajput/Tik-tak-toe)
-A C++ console game with 2-player mode and an AI opponent using the Minimax algorithm.
-
-**C++ • Game Logic • Minimax**
-
 ### 📚 Other Projects
 - [Iris Flower Classification](https://github.com/anshull-rajput/Iris-Flower-Classification)
 - [House Price Prediction](https://github.com/anshull-rajput/House-Price-Prediction)
